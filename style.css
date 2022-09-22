@@ -1,0 +1,31 @@
+body{
+text-align: center;
+}
+
+h1:hover{
+font-family: fantasy;
+font-variant: small-caps;
+color: red;
+background-color: black;
+}
+
+h1:first-letter{
+font-size: 3cm;
+font-family: cursive;
+color: gold;
+text-shadow: 5px 6px 9px;
+}
+
+button:hover{
+background-color: orange;
+color: cyan;
+font-family: fantasy;
+font-variant: small-caps;
+}
+
+button:first-letter{
+font-size: 2cm;
+font-family: cursive;
+color: gold;
+text-shadow: 5px 6px 9px;
+}
